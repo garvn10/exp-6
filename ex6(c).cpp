@@ -1,5 +1,5 @@
-// NAME - SHREY RAJ
-// PRN - 23070123123
+// NAME - GARV NANDWANA
+// PRN - 23070123167
 // EXPERIMENT -6(C) 
 
 #include<iostream> 
