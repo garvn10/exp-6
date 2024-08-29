@@ -1,5 +1,5 @@
-//SHREY RAJ
-//23070123123
+//GARV NANDWANA
+//23070123167
 //EXPERIMENT-6(a)
 
 #include<iostream>
