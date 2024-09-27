@@ -171,7 +171,26 @@ int main(){
 ```
 
 ### Output: 
+(A)<br> 
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6A.png)
 
+(B)<br>
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6B.png)
+
+(C)<br>
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6C.png)
+
+(D)<br>
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6D.png)
+
+(E)<br>
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6E.png)
+
+(F)<br>
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6F.png)
+
+(G)<br> 
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6(G)%20.png) 
 
 ### Conclusion 
 I learnt about different deciosion making loops of C++ and made programs using those statements like how to print counting numbers or even numbers, till a certain range, matrix operations and many other programs. <br> 
